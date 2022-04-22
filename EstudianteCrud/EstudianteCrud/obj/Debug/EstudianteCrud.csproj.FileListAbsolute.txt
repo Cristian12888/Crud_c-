@@ -1,0 +1,11 @@
+C:\Users\Cristian\Desktop\CrudEstudiante\EstudianteCrud\EstudianteCrud\bin\Debug\EstudianteCrud.exe.config
+C:\Users\Cristian\Desktop\CrudEstudiante\EstudianteCrud\EstudianteCrud\bin\Debug\EstudianteCrud.exe
+C:\Users\Cristian\Desktop\CrudEstudiante\EstudianteCrud\EstudianteCrud\bin\Debug\EstudianteCrud.pdb
+C:\Users\Cristian\Desktop\CrudEstudiante\EstudianteCrud\EstudianteCrud\obj\Debug\EstudianteCrud.csproj.AssemblyReference.cache
+C:\Users\Cristian\Desktop\CrudEstudiante\EstudianteCrud\EstudianteCrud\obj\Debug\EstudianteCrud.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cristian\Desktop\CrudEstudiante\EstudianteCrud\EstudianteCrud\obj\Debug\EstudianteCrud.Properties.Resources.resources
+C:\Users\Cristian\Desktop\CrudEstudiante\EstudianteCrud\EstudianteCrud\obj\Debug\EstudianteCrud.csproj.GenerateResource.cache
+C:\Users\Cristian\Desktop\CrudEstudiante\EstudianteCrud\EstudianteCrud\obj\Debug\EstudianteCrud.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\CrudEstudiante\EstudianteCrud\EstudianteCrud\obj\Debug\EstudianteCrud.exe
+C:\Users\Cristian\Desktop\CrudEstudiante\EstudianteCrud\EstudianteCrud\obj\Debug\EstudianteCrud.pdb
+C:\Users\Cristian\Desktop\CrudEstudiante\EstudianteCrud\EstudianteCrud\obj\Debug\EstudianteCrud.Vista.VistaEstudiante.resources
